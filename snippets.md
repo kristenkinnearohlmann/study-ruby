@@ -24,3 +24,6 @@ Gems are libraries in Ruby.
 ```Ruby
 cats = %w(Mario Rucola)
 ```
+
+## IRB
+- use classes created outside IRB by invoking ```require_relative``` and the class name (ex. ```require_relative './lib/customer.rb'```)
